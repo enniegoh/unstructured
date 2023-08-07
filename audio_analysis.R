@@ -1,7 +1,4 @@
-# Project 3 Unstructured Data Analytics
-# Task 2
-# Name: Goh Jia En
-# Matric No: P121534
+# audio analysis
 
 library(seewave)
 library(tuneR)
