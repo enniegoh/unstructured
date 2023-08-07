@@ -1,7 +1,4 @@
-# Project 3 Unstructured Data Analytics
-# Task 1
-# Name: Goh Jia En
-# Matric No: P121534
+# image analysis
 
 ################################ PART A ###############################
 library(imager)
